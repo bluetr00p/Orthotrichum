@@ -2,6 +2,10 @@
 - Different UI
 - custom bins to inject
 - for use with [sandCastle](https://github.com/bluetr00p/sandCastle)
+# FYI
+Orthotrichum is a Moss which can be found in the Pacific Northwest region of the United States. Mosses are plants without roots so therefore the Orthotrichum name.
+
+This Jailbreak is based off of the concept of rootless filesystems, where one cann't write to the root aka `/`
 
 # Description
 
