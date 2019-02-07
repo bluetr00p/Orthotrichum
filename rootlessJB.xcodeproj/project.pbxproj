@@ -571,7 +571,7 @@
 					"$(PROJECT_DIR)/rootlessJB/libs",
 				);
 				OTHER_LDFLAGS = "-lc++";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jakeashacks.rootlessJB3;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Simple.Orthotrichum;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -592,7 +592,7 @@
 					"$(PROJECT_DIR)/rootlessJB/libs",
 				);
 				OTHER_LDFLAGS = "-lc++";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jakeashacks.rootlessJB3;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Simple.Orthotrichum;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
